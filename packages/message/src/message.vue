@@ -1,6 +1,6 @@
 <template>
   <div class="lg-message">
-    Hello Vue
+    Hello Vue World
   </div>
 </template>
 
