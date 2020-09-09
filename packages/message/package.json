@@ -1,5 +1,5 @@
 {
-  "name": "packages",
+  "name": "lg-message",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "be5f8e5a9da82c9f19007231811acacf069afd76"
 }

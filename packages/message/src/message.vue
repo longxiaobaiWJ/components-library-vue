@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="lg-message">
     Hello Vue
   </div>
 </template>
