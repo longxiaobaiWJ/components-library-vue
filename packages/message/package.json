@@ -1,4 +1,6 @@
 {
+  "name": "lg-message",
+  "version": "0.0.6",
   "description": "如何开发自己的基础/业务组件，一起来 Happy 的造轮子，不做只会用别人组件的的码农",
   "main": "index.js",
   "scripts": {
@@ -7,8 +9,7 @@
   "keywords": [
     "lg-message"
   ],
-  "author": "longxiaobai",
+  "author": "longxiaobai@163.com",
   "license": "ISC",
-  "gitHead": "3ccac41b4f2896b7edb7dea61430654e90c9329c",
-  "version": "0.0.7"
+  "gitHead": "3ccac41b4f2896b7edb7dea61430654e90c9329c"
 }
