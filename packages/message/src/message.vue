@@ -6,7 +6,10 @@
 
 <script>
 export default {
-  name: 'LgMessage'
+  name: 'LgMessage',
+  props: {
+    
+  }
 }
 </script>
 
